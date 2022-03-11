@@ -1,3 +1,4 @@
+#画像に含まれている日本語を読み取り出力する
 from PIL import Image
 import sys
 import pyocr
